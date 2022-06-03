@@ -61,7 +61,7 @@ class Main():
         RutaDeArchivoSalida=input ("Ingresar el nombre del NUEVO archivo? \n")
         print("Por favor espere... ")
         EscribirArchivo(RutaDeArchivoSalida,Matriz,RutaDeArchivoEntrada)
-        print("Por favor espere... ")        
+            
    
 
    
